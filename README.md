@@ -13,3 +13,22 @@ este es un mensaje actualizado desde gitHub
 
 ## estos cambios son nuevos desde github
 ## estos cambios son nuevos desde mi repositorio 
+
+# h1 
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+* A
+* B
+* C
+* D
+  * D1
+
+![Github Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPCXijL-2hCYGt305r2SwoSsbJTG6yl2OIQ&s)
+
+*esto* es un _texto_
+
+
