@@ -1,0 +1,2 @@
+# historia de batman 
+atman es uno de los superhéroes más icónicos de la historia, creado por el dibujante Bob Kane y el escritor Bill Finger para la editorial estadounidense DC Comics. Su primera aparición fue en el cómic Detective Comics N.º 27, publicado en mayo de 1939.A diferencia de la mayoría de los superhéroes, Batman no posee superpoderes; confía en su intelecto, habilidades de detective, ciencia, tecnología, riqueza, destreza física y una voluntad de hierro.
