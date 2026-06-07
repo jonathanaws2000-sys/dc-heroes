@@ -1,2 +1,0 @@
-# Historia de flash
-he Flash es el superhéroe velocista más famoso de la editorial estadounidense DC Comics, creado originalmente por el escritor Gardner Fox y el artista Harry Lampert. El personaje debutó en Flash Comics N.º 1 en enero de 1940 y se caracteriza por poseer la Fuerza de la Velocidad (Speed Force), un poder cósmico que le permite correr, reaccionar y pensar a velocidades sobrehumanas.
